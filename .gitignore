@@ -1,0 +1,27 @@
+# Publish only these reviewed files. Do not use git add -f.
+*
+!/.gitignore
+!/.nojekyll
+!/README.md
+!/index.html
+!/css/
+!/js/
+!/js/screens/
+!/css/style.css
+!/js/analytics.js
+!/js/app.js
+!/js/backup-validation.js
+!/js/catalog.js
+!/js/daily.js
+!/js/export.js
+!/js/records.js
+!/js/storage.js
+!/js/ui.js
+!/js/screens/customer.js
+!/js/screens/dashboard.js
+!/js/screens/data.js
+!/js/screens/history.js
+!/js/screens/home.js
+!/js/screens/learning.js
+!/js/screens/reflection.js
+!/js/screens/work.js
